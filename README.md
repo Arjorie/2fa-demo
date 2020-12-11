@@ -31,4 +31,4 @@ http://localhost:8001/verify
 ```
 **Make sure to put the `code` in the body.**
 * Example
-<a href="https://doc-0k-1s-docs.googleusercontent.com/docs/securesc/sej29hbqlrn5r6k54jk49ou68ae5k0et/nvm3505470rdpisupn0qo5smeaefnj23/1607672325000/09604395405528143287/09604395405528143287/1ik_Yqk-ogV5_OF48co9Yr-DrM-4GQS4z?e=view&authuser=0&nonce=r3iqffn8pemfc&user=09604395405528143287&hash=thkfkrkp0s2qo19c3qfjtgrgem9qash5"><img src="https://doc-0k-1s-docs.googleusercontent.com/docs/securesc/sej29hbqlrn5r6k54jk49ou68ae5k0et/nvm3505470rdpisupn0qo5smeaefnj23/1607672325000/09604395405528143287/09604395405528143287/1ik_Yqk-ogV5_OF48co9Yr-DrM-4GQS4z?e=view&authuser=0&nonce=r3iqffn8pemfc&user=09604395405528143287&hash=thkfkrkp0s2qo19c3qfjtgrgem9qash5" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/file/d/1ik_Yqk-ogV5_OF48co9Yr-DrM-4GQS4z/view?usp=sharing"><img src="https://drive.google.com/file/d/1ik_Yqk-ogV5_OF48co9Yr-DrM-4GQS4z/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
